@@ -1,2 +1,0 @@
-[console_scripts]
-publisher = turtle_py_pkg.demo:main
